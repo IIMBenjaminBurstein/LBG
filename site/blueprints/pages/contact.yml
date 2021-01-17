@@ -1,0 +1,14 @@
+title: contact
+sections:
+  champs:
+    type: fields
+    fields: 
+      Msgfin: 
+        label: Message après envoie du formulaire
+        type: text
+        width: 1/1
+      Homepage:
+        label: Message du renvoie à la Homepage
+        type: text
+        width:  1/1
+    

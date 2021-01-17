@@ -1,0 +1,271 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: triplex-serif, serif;
+    font-style: normal;
+    text-align: text;
+  }
+  header,body{
+    background-color: #141414;
+    max-width: 100vw;
+  }
+  
+  footer{
+    background-color: #181818;
+    width: 100vw;
+  }
+  li,p,h1,h2,h3{
+    color:#dadada;
+  }
+  li{
+    font-weight: 300;
+    font-size: 18px;
+  }
+  p,button{
+    font-weight: 300;
+    font-size: 15px;
+  }
+  h2{
+    font-weight: 700;
+    font-size: 30px;
+  }
+  h1{
+    font-weight: 800;
+    font-size: 60px;
+  }
+  a {
+    color: currentColor;
+  }
+  
+  .header a{
+    text-decoration: none;
+   
+  }
+  li a:hover {
+    border-bottom: solid white 1px;
+    color: currentColor;
+  }
+  .logo {
+    font-weight: bold;
+    margin-right: 30px;
+  }
+  .menu{
+    margin-top: 20px;
+  }
+  .point{
+    font-size: large;
+  }
+  .menu ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu ul li + li {
+    margin-left: 1.5rem;
+  }
+  
+  .SectionTitle{
+     
+      padding-bottom: 15px;
+     
+      position: relative;
+     
+    }
+    .banniere{
+      z-index: -1;
+      position: relative;
+    }
+    .banniere>img{
+       opacity: 70%;
+       border-bottom: 3px solid white;
+     }
+  
+    .SectionTitle:after{
+     
+        content: "";
+     
+        position: absolute;
+     
+        width: 7.5%;
+     
+        bottom: 0;
+     
+        left: 0;
+     
+        border-bottom: 3px solid white;
+    }
+  
+    .textSection2{
+      align-content: center;
+    }
+    .footer{
+      max-width: 100%;
+      margin: auto;
+      text-align: center;
+      padding-bottom: 10px;
+    }
+    .title>h1{
+      position: absolute;
+      z-index: 0;
+      top: 45%;
+      left: 45%;
+    }
+  
+    .video{
+      outline: none;
+    }
+    .titleTel{
+      display: none;
+      text-align: center;
+    }
+  
+    @media only screen and (min-width: 993px) and (max-width: 1200px){
+     .image{
+       max-width: 390px;
+     }
+     .textSection2{
+       margin-top: -12px;
+     }
+     .footer{
+      max-width: 80%;
+      margin: auto;
+     }
+    }
+    @media only screen and (min-width: 768px) and (max-width: 993px){
+      .image{
+        max-width: 290px;
+      }
+      .image2{
+        margin-top: 0%;
+      }
+      .image1{
+        margin-top: 0%;
+      }
+      .textSection2{
+        margin-top: 0px;
+        margin-left: 0px;
+      }
+      li{
+        font-size: 16px;
+      }
+      p{
+        font-size: 12px;
+      }
+      h2{
+        font-size: 24px;
+      }
+      h1{
+        font-size:48px;
+      }
+     }
+     @media only screen and (min-width: 500px) and (max-width: 768px){
+      .image{
+        max-width: 450px;
+      }
+      .title>h1{
+        position: absolute;
+        z-index: 0;
+        top: 5%;
+        left: 45%;
+      }
+      .SectionTitle{
+        margin-top: 10px;
+        text-align: center;
+      }
+      .SectionTitle:after{
+     
+        content: "";
+     
+        position: absolute;
+     
+        width: 50%;
+     
+        bottom: 0;
+     
+        left: 25%;
+     
+        border-bottom: 3px solid white;
+     
+    }
+    li{
+      font-size: 18px;
+    }
+    p{
+      font-size: 14px;
+    }
+    h2{
+      font-size: 28px;
+    }
+    h1{
+      font-size:56px;
+    }
+  }
+    @media only screen and (max-width: 500px){
+      header{
+        background-color: #181818
+      }
+      .menu ul {
+        flex-flow: column;
+        align-items: center;
+        }
+        .menu{
+          margin-right: 50px;
+        }
+        .logo{
+          margin-left: 40px;
+        }
+        .page{
+          margin-left: 25px;
+          margin-top: 10px;
+        }
+      .image{
+        max-width: 450px;
+      }
+      .titleTel{
+        display: flex;
+      }
+      .banniere{
+        display: none;
+      }
+      .title>h1{
+        position: absolute;
+        z-index: 0;
+        top: 5%;
+        left: 45%;
+      }
+      .SectionTitle{
+        margin-top: 10px;
+        text-align: center;
+      }
+      .SectionTitle:after{
+     
+        content: "";
+     
+        position: absolute;
+     
+        width: 50%;
+     
+        bottom: 0;
+     
+        left: 25%;
+     
+        border-bottom: 3px solid white;
+     
+    }
+    li{
+      font-size: 18px;
+    }
+    p{
+      font-size: 14px;
+    }
+    h2{
+      font-size: 28px;
+    }
+    h1{
+      font-size:56px;
+    }
+     }
+    

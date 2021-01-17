@@ -1,0 +1,14 @@
+title: Error 404
+sections:
+  champs:
+    type: fields
+    fields: 
+      Msg: 
+        label: Message d'erreur
+        type: text
+        width: 1/2,1/2
+      Homepage:
+        label: Message du renvoie à la Homepage
+        type: text
+        width: 1/2,1/2
+    

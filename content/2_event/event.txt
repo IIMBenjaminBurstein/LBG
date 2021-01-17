@@ -1,0 +1,59 @@
+
+Title: Event 
+----
+
+Title1: URBANJAM 
+
+----
+
+S1paraph1: In february 2018, we organized a game jam based on urban cultures, in partnership with Medialab 93, Est Ensemble and BETC. 8 teams of developers worked with street artists to create original gameplays. Graffiti artists like Da Cruz were among the participants.
+
+----
+
+S1paraph2: At the end of the game jam, very diverse creations have been showcased : graffiti made with spray paint on smarphones, rap in virtual reality, or even interactive clips...
+
+Arte, the european broadcasting channel and Le Mouv', the french radio were our media partners. You can play the games made during the Urban jam on Itchio.
+
+----
+S1paraph3: 
+----
+
+Title2: MEDIA JAM
+
+----
+
+S2paraph1: From 7 to 9 october 2016, La Belle coorganized a game creation event, in partnership with the information Website Mediapart. Eight teams composed of journalists, confirmed game developers and students of Ecole Estienne and Gobelins created games inspired by the french presidential campain, during 48 hours. The game developers that participated are active members of the european indie videogame including people from Klondike collective, Amplitude Studios or Le Cortex.
+
+----
+
+S2paraph2: After 48 hours of work, we had a very vast gammut of games, from the Magic : the gathering, political card games, to fun multiplayer game where you have to chose the best voting system.
+
+----
+
+S2paraph3: The main steps of the event have been broadcasted live during the week-end, in order to make the creation process intelligible for all the followers of the event.
+
+----
+
+S2paraph4: Mediajam had a lot of press coverage. The biggest european videogames information Website, Jeuxvideo.com, was partner and casted all the streams. Canard PC, Gamekult, but also Arte Journal made a report of the event.
+
+----
+
+Banniere:
+
+- 1_baniere.jpg
+
+----
+
+Image1:
+
+- 2_drawor.png
+
+----
+
+Image2:
+
+- 3_video.mp4
+
+----
+
+Layout: [{"attrs":{"urbantitle":"UrbanMedia","images":[]},"columns":[{"blocks":[],"id":"7ba808b7-bd16-4d16-aac5-14568627dc75","width":"1\/1"}],"id":"7feb6348-55fd-4c5d-ba41-a2bf28df8146"}]

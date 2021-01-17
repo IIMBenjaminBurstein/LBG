@@ -1,0 +1,55 @@
+Title: Home
+
+----
+
+Title1: Game
+
+----
+
+S1paraph1: At La Belle Games, we don’t create games, we create experiences for gamers.
+
+----
+
+S1paraph2: With The Wanderer : Frankenstein’s creatures and Eugenics, we Dany to be part of these games by your choices and curiosity
+
+----
+
+S1paraph3: 
+
+----
+
+Title2: Event
+
+----
+
+S2paraph1: With our themed game jam, we match different profiles, like journalists, painter or street artists with game developer in order to create new ways of expression
+
+----
+
+S2paraph2: 
+
+----
+
+S2paraph3: 
+
+----
+
+S2paraph4: 
+
+----
+
+Banniere:
+
+- frankenstein-labelle-3.jpg
+
+----
+
+Image1:
+
+- game.png
+
+----
+
+Image2:
+
+- event.jpg

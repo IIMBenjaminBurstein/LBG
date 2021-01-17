@@ -1,0 +1,67 @@
+title: Home
+sections:
+  champs:
+    type: fields
+    fields: 
+      title1: 
+        label: Section1 Titre
+        type: text
+        width: 1/2,1/2
+      S1paraph1: 
+        label: Section1 Paragraphe 1
+        type: textarea
+        width: 1/3
+        size: medium
+      S1paraph2:
+        label: Section1 Paragraphe 2
+        type: textarea 
+        width: 1/3
+        size: medium
+      S1paraph3:
+        label: Section1 Paragraphe 3 
+        type: textarea 
+        width: 1/3
+        size: medium
+      title2: 
+        label: Section2 Titre
+        type: text
+        width: 1/2,1/2
+      S2paraph1:
+        label: Section2 Paragraphe 1
+        type: textarea
+        width: 1/3
+        size: medium
+      S2paraph2:
+        label: Section2 Paragraphe 2
+        type: textarea
+        width: 1/3
+        size: medium
+      S2paraph3:
+        label: Section2 Paragraphe 3
+        type: textarea  
+        width: 1/3
+        size: medium
+      S2paraph4:
+        label: Section2 Paragraphe 4
+        type: textarea
+        width: 1/3  
+        size: medium
+  files:
+    type: fields
+    fields:
+      banniere:
+        label: Image banniere
+        layout: cards
+        type: files
+        query: page.images #limite les fichiers au fichiers images (voir les types possible sur la doc kirby)
+        size: small
+      image1:
+        label: Image paragraphe 1
+        layout: cards
+        type: files
+        size: small
+      image2:
+        label: Image paragraphe 2
+        layout: cards
+        type: files
+        size: small  

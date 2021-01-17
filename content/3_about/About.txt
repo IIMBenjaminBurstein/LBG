@@ -1,0 +1,53 @@
+Title: About
+
+----
+
+Title1: ABOUT
+
+----
+
+S1paraph1: At La Belle Games, we want to create games that are not just about entertainment. With Arte, we worked on The Wanderer: Frankenstein's Creature, a free adaptation of Mary Shelley’s gothic classic.
+
+----
+
+S1paraph2: The game received several distinctions and had a lot of international press coverage. We also imagine original gamejams where developers join forces with artists or journalists.
+
+----
+
+S1paraph3: La Belle was founded by three people, eager to push the videogame medium forward.
+
+----
+
+Title2: FOUNDERS
+
+----
+
+S2paraph1: Thibaut de Corday. A documentary films and video games producer dealing with social issues – and a TV and games writer. His latest production is the bimedia project about science fiction iconic author Philip K. Dick consisting of The Worlds of Philip. K. Dick documentary and the video game entitled Californium.
+
+----
+
+S2paraph2: Cédric Bache. After more than 15 years, as a head of business developpment at Neko Entertainment, Cedric is a veteran of the indie scene. He’s involved in the french and european indie scene, but he and his team aslo helps young teams to finalize their games.
+
+----
+
+S2paraph3: Laurent Checola. After a first career, employed at Le Monde, he became “indie journalist” working on webdocumentaries and game projects. Let’s Play ! is a five episode serie about the European videogame indie scene, published by Devolver on Steam.
+
+----
+
+S2paraph4: 
+
+----
+
+Banniere: 
+
+----
+
+Image1:
+
+- lbg.png
+
+----
+
+Image2:
+
+- creator.png
